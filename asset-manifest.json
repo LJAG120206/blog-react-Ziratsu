@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blog-react-Ziratsu/static/css/main.9a5fd305.css",
+    "main.js": "/blog-react-Ziratsu/static/js/main.f13f7dba.js",
+    "index.html": "/blog-react-Ziratsu/index.html",
+    "main.9a5fd305.css.map": "/blog-react-Ziratsu/static/css/main.9a5fd305.css.map",
+    "main.f13f7dba.js.map": "/blog-react-Ziratsu/static/js/main.f13f7dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5fd305.css",
+    "static/js/main.f13f7dba.js"
+  ]
+}
